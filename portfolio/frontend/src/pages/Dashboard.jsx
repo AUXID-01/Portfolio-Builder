@@ -1,6 +1,4 @@
-// ==========================================
-// frontend/src/pages/Dashboard.js - COMPLETE VERSION
-// ==========================================
+
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Plus, Settings, Eye, Trash2, Download, Copy, ExternalLink, Search, Filter, MoreVertical, Star, Calendar, TrendingUp, FileText } from 'lucide-react';
